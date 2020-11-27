@@ -4,4 +4,5 @@ This repo includes several R scripts working with poipular data (BostonHousing, 
   
 G1: statistics distributions plotting  
 G2: linear regression  
+G3: classification problems: KNN, LR,LDA.  
 
